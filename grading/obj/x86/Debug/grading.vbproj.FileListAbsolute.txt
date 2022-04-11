@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\bin\Debug\grading.exe
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\bin\Debug\grading.pdb
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\bin\Debug\grading.xml
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.Form1.resources
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.Resources.resources
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.vbproj.GenerateResource.Cache
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.exe
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.xml
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.pdb
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\bin\Debug\MySql.Data.dll
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.login.resources
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.register.resources
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.Print.resources
+C:\Users\HP\Desktop\Practice\Grading System\grading\grading\obj\x86\Debug\grading.Form2.resources
